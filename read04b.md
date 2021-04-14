@@ -1,6 +1,7 @@
 
 # how computers are actually working!
 
+
 A **computer** receives data through an input unit based on the instructions it is given and after it processes the data, it sends it back through an output device.
 
 There are *four main steps* :
