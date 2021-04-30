@@ -77,9 +77,9 @@ Every **node** in a document has a *node type*, which is accessed through the no
 
 | Node Type  | Example |
 | -----------   | ----------- |
-| ELEMENT_NODE | The`<body>` element
-| TEXT_NODE |Text that is not part of an element  |
-| COMMENT_NODE |	`<!-- an HTML comment -->`|
+| `ELEMENT_NODE` | The`<body>` element
+| `TEXT_NODE` |Text that is not part of an element  |
+| `COMMENT_NODE` |	`<!-- an HTML comment -->`|
 
 
 
@@ -112,6 +112,7 @@ DOCUMENT OBJECT MODEL
 
 
 ## Problem Domain
+
 
 ### What is the hardest thing about writing code?
 
